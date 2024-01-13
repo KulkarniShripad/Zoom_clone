@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "84005882409",
+    "project_id": "connect--video-calling-app",
+    "storage_bucket": "connect--video-calling-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84005882409:android:45c01d0009f323b4cd2a38",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84005882409-2g863mpgoosqlt7v0m98i6ahn96dvbm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test",
+            "certificate_hash": "9439196a8c81c560ab9d6a85f2553b14194efd4a"
+          }
+        },
+        {
+          "client_id": "84005882409-nhhga8r4u0flik15m7j53jsqrl90c407.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOo4mQh2Pf2nRfO0E0YlWb6f2bNl-QKo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84005882409-nhhga8r4u0flik15m7j53jsqrl90c407.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84005882409-60j4jmfj498k1bb2v717rtb8ibm3mnmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
